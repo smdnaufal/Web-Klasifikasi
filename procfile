@@ -1,0 +1,2 @@
+web: vendor/bin/heroku-php-apache2 php_app/
+worker: python python_app/app.py
